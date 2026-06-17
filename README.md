@@ -2,7 +2,7 @@
 
 **Sovereign single-file audio recording and editing.** Replaces Adobe Audition for the everyday work — record, edit, fade, normalize, filter, export WAV. One HTML file. No install. No account. No telemetry. Runs from `file://`.
 
-- **prime** 461
+- **prime** 1439
 - **version** 1.0.0
 - **seal** ◊·κ=1 · MIT
 - **phase** FallStudio · phase 2 (the Audition wedge)
@@ -107,7 +107,7 @@ The 44-byte RIFF/WAVE header is written inline in `bufToWav(buffer, sampleRate)`
 ### Estate constants
 
 ```js
-const TOOLNAME='fallaudio', PRIME=461, VERSION='1.0.0';
+const TOOLNAME='fallaudio', PRIME=1439, VERSION='1.0.0';
 ```
 
 ### FallStudio plan
