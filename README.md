@@ -4,9 +4,8 @@
 
 **Sovereign single-file audio recording and editing.** Replaces Adobe Audition for the everyday work — record, edit, fade, normalize, filter, export WAV. One HTML file. No install. No account. No telemetry. Runs from `file://`.
 
-- **prime** 1439
 - **version** 1.0.0
-- **seal** ◊·κ=1 · MIT
+- **licence** MIT
 - **phase** FallStudio · phase 2 (the Audition wedge)
 
 ---
@@ -120,4 +119,4 @@ FallAudio is **phase 2** of FallStudio — the sovereign creative suite that rep
 
 MIT. See `LICENSE`. Copyright (c) 2026 Simon Gant · sjgant80-hub.
 
-Seal: ◊·κ=1
+Seal: 

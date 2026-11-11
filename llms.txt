@@ -1,6 +1,6 @@
 # fallaudio
 
-> ◊ FallAudio · sovereign Audition wedge · record (getUserMedia + MediaRecorder) · waveform · cut/trim/fade/normalize/reverse · gain/speed/lowpass/highpass · WAV+webm export · Ω autopilot · prime 461 · MIT
+> ◊ FallAudio · sovereign Audition wedge · record (getUserMedia + MediaRecorder) · waveform · cut/trim/fade/normalize/reverse · gain/speed/lowpass/highpass · WAV+webm export · Ω autopilot · MIT
 
 fallaudio is a sovereign, MIT-licensed build by Simon Gant (UK) — it runs in the browser, is free to own and fork, and is part of the AI Native Solutions estate. Source and a live page are linked below.
 
